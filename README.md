@@ -1,6 +1,6 @@
 # visongallery
 
-A new Flutter project.
+An E-commerce Flutter project
 
 ## Getting Started
 
